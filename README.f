@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
+
 
 /*
 <applet code ="Table" width=500 height=500>
@@ -9,7 +9,7 @@ import java.awt.event.*;
 
 public class Table extends JApplet{
 
-	JLabel j;
+	
 	JFrame jf = new JFrame("TABLE");
 
 	String col[]={"USN","NAME","BRANCH","SEM","SECTION"};
