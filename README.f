@@ -10,7 +10,7 @@ import java.awt.*;
 public class Table extends JApplet{
 
 	
-	JFrame jf = new JFrame("TABLE");
+	
 
 	String col[]={"USN","NAME","BRANCH","SEM","SECTION"};
 
