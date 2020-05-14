@@ -17,10 +17,10 @@ public class Table extends JApplet{
 
 	String value[][]={
 		 	 {"4A18CS056","pooja","cse","4th","B"},
-		 	 {"4A18CS062","Pratibha","cse","4th","B"}
+		 	 {"4A18CS062","Pratibha","cse","4th","B"},
 			 {"4AL18CS055", "Ponica","cse","4th","B"},
 		 	 {"4AL18CS061", "Prathusha","cse","4th","B"},
-			 {"4AL18CS065","Rachana","cse","4th","B"},
+			 {"4AL18CS065","Rachana","cse","4th","B"}
 			 };
 
 	public void init()
